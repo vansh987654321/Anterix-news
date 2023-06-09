@@ -1,7 +1,9 @@
-# Anterix-news
- 92 changes: 92 additions & 0 deletions92  
-noname(27).html
-@@ -0,0 +1,92 @@
+<html>
+<head>
+<title>Anterix News</title>
+</head>
+<body>
+
 <style type="text/css">
 .heading
 {
@@ -94,3 +96,5 @@ setInterval("hide()",1)
 <noscript>
 Your browser does not support Java Script.
 </noscript>
+</body>
+</html>
